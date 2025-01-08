@@ -4,7 +4,6 @@
 ![Forks](https://img.shields.io/github/forks/shenikar/Leetcode_SQL_50?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/shenikar/Leetcode_SQL_50?style=flat-square)
 ![PRs](https://img.shields.io/github/issues-pr/shenikar/Leetcode_SQL_50?style=flat-square)
-![Build Status](https://img.shields.io/github/workflow/status/shenikar/Leetcode_SQL_50/CI?style=flat-square)
 ![PostgreSQL](https://img.shields.io/github/languages/top/shenikar/Leetcode_SQL_50?label=PostgreSQL&style=flat-square)
 
 Этот репозиторий содержит решения 50 популярных задач по SQL на Leetcode. Задачи охватывают широкий спектр тем, включая базовые SELECT-запросы, операции JOIN, агрегатные функции, подзапросы и более сложные техники, такие как оконные функции.
